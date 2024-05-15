@@ -1,0 +1,14 @@
+.services:hover {
+    text-decoration: underline;
+}
+
+.services:active {
+    scale: 0.9;
+    transition: 1s ease;
+}
+
+.left-img-sec img:hover, .right-img-sec img:hover {
+    scale: 1.10;
+    transition: 0.7s ease;
+    cursor: pointer;
+}
